@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/LeticiaPiaz/chatbot_node_telegram/issues"
   },
-  "homepage": "https://github.com/LeticiaPiaz/chatbot_node_telegram#readme"
+  "homepage": "https://github.com/LeticiaPiaz/chatbot_node_telegram#readme",
+  "dependencies": {
+    "axios": "0.17.1",
+    "telegraf": "3.17.3"
+  }
 }
